@@ -8,7 +8,8 @@
 - RandomForest Regression 
 - K-Means clustering algorithm 
 - DBSCAN
-**Dataset:** 'car_sales_data_24.csv' It contains 50,000 rows and 7 columns with the following attributes:
+### Dataset features
+'car_sales_data_24.csv' It contains 50,000 rows and 7 columns with the following attributes:
 - Manufacturer: The brand of the car (e.g., Ford, Toyota, BMW). 
 - Model: The specific model of the car (e.g., Fiesta, Golf, RAV4). 
 - Engine size: The size of the engine in liters. 
